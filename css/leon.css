@@ -375,11 +375,11 @@ body{
     color: #777;
 }
 /* End about section */
-* End Contact section */
+/* End Contact section */
 .contact{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-color: var(--section-background, #797979) ;
+    background-color:  #797979 ;
 }
 .contact .info{
     padding-top: var(--section-padding);
