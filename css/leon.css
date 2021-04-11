@@ -6,7 +6,6 @@
     --section-background: #f6f6f6;
     --main-duration: .3s;
 }
-
 /* End Variables */
 /* Global Rules */
 *{
@@ -20,7 +19,6 @@ html{
 body{
     font-family: 'Work Sans', sans-serif;
 }
-
 .parent{
     background-color: white;
     margin: auto;
@@ -410,7 +408,7 @@ body{
       margin-left: 10px;
       color: var(--sec-color);
 }
-@media (max-width: 767 px){
+@media (max-width: 767px){
     .contact .info .link, 
     .contact .info .label{
     
